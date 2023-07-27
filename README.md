@@ -5,7 +5,9 @@
 Hello! Welcome to my Fullstack GraphQL MEARN book search engine. You can login and signup and once you're in you can search for books using the google books api and add them to your list and from  your list you can visualize them and delete any you want to remove.
 
 ## Usage
-https://bookengine-588ca718f66e.herokuapp.com/
+
+https://git.heroku.com/bookwyrm.git
+https://bookwyrm-aeb6aa1ad009.herokuapp.com/
 
 ## Screenshot
 ![Screenshot](./asset/Screenshot%202023-07-11%20193603.png)
